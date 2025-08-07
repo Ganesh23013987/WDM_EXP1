@@ -115,7 +115,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-<img width="990" height="990" alt="image" src="https://github.com/user-attachments/assets/793db1c2-1fb2-4123-8da6-a9fcb622a47e" />
+<img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/793db1c2-1fb2-4123-8da6-a9fcb622a47e" />
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
