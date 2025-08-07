@@ -54,7 +54,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-<img width="650" height="148" alt="image" src="https://github.com/user-attachments/assets/9d9762d1-d5bb-41cd-9a97-281d638af7f5" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/9d9762d1-d5bb-41cd-9a97-281d638af7f5" />
 
 
 
