@@ -56,7 +56,7 @@ rainy,75.0,80.0,false,yes
 
 <img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/9d9762d1-d5bb-41cd-9a97-281d638af7f5" />
 
-<img width="388" height="218" alt="image" src="https://github.com/user-attachments/assets/a76446f7-1854-455f-9286-4106b4c0888a" />
+<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/a76446f7-1854-455f-9286-4106b4c0888a" />
 
 
 
