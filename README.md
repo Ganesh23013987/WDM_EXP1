@@ -21,8 +21,8 @@ Employee Data
 @attribute phone numeric
 
 @data
-Ganesh,101,low,2,male,7810048370
-Sangavi,102,high,3,female,9812309871
+Ganesh,101,high,2,male,7810048370
+Sangavi,102,low,3,female,9812309871
 Tamizhselvan,103,medium,1,male,9884787511
 Jeevitha,104,low,5,female,7418985619
 Sarwesh,105,high,6,male,8987213092
