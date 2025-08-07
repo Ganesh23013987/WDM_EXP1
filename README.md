@@ -79,9 +79,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-
+## Employee Table after adding new attribute place:
 <img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/059b48c5-e381-4d3e-8e84-95b96f964410" />
 
+## Weather Table after adding new attribute climate:
 <img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/1d286f85-d9eb-4d73-b243-68b1f111cdb5" />
 
 
@@ -103,8 +104,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+##  Employee Table after removing attribute phone:
 <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/1fe276a5-fdd1-43af-921e-0b9959bcbac2" />
 
+## Weather Table after removing attributes windy and play:
 <img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/00668f74-9abf-4cb5-b1da-0ada90f38011" />
 
 
@@ -124,8 +127,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+##  Employee Table after Normalizing id and exp:
 <img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/793db1c2-1fb2-4123-8da6-a9fcb622a47e" />
 
+##  Weather Table after Normalizing temperature and humidity:
 <img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/8c6db4cc-6f6e-4b5a-8324-e7661238c569" />
 
 
