@@ -128,10 +128,10 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ##  Employee Table after Normalizing id and exp:
-<img width="950" height="1250" alt="image" src="https://github.com/user-attachments/assets/793db1c2-1fb2-4123-8da6-a9fcb622a47e" />
+<img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/793db1c2-1fb2-4123-8da6-a9fcb622a47e" />
 
 ##  Weather Table after Normalizing temperature and humidity:
-<img width="950" height="1250" alt="image" src="https://github.com/user-attachments/assets/8c6db4cc-6f6e-4b5a-8324-e7661238c569" />
+<img width="1050" height="1050" alt="image" src="https://github.com/user-attachments/assets/8c6db4cc-6f6e-4b5a-8324-e7661238c569" />
 
 
 ### RESULT: 
