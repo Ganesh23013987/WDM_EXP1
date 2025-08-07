@@ -10,40 +10,45 @@
 --------------
 Employee Data
 ---------------
+
 @relation employee
-@attribute name {x,y,z,a,b}
-@attribute id numeric
+
+@attribute name string
+@attribute id  numeric
 @attribute salary {low,medium,high}
 @attribute exp numeric
 @attribute gender {male,female}
 @attribute phone numeric
+
 @data
-x,101,low,2,male,250311
-y,102,high,3,female,251665
-z,103,medium,1,male,240238
-a,104,low,5,female,200200
-b,105,high,2,male,240240
+Ganesh,101,low,2,male,7810048370
+Sangavi,102,high,3,female,9812309871
+Tamizhselvan,103,medium,1,male,9884787511
+Jeevitha,104,low,5,female,7418985619
+Sarwesh,105,high,6,male,8987213092
 
 --------------
 Weather Data
 ---------------
-@relation weather
-@attribute outlook {sunny,rainy,overcast}
-@attribute temparature numeric
+@relation Weather
+
+@attribute outlook {sunny,overcast,rainy}
+@attribute temperature numeric
 @attribute humidity numeric
 @attribute windy {true,false}
 @attribute play {yes,no}
+
 @data
-sunny,85.0,85.0,false,no
-overcast,80.0,90.0,true,no
-sunny,83.0,86.0,false,yes
-rainy,70.0,86.0,false,yes
-rainy,68.0,80.0,false,yes
-rainy,65.0,70.0,true,no
-overcast,64.0,65.0,false,yes
-sunny,72.0,95.0,true,no
-sunny,69.0,70.0,false,yes
-rainy,75.0,80.0,false,yes
+sunny,85,85,true,no
+overcast,80,85,false,yes
+rainy,70,75,false,no
+rainy,75,70,true,no
+rainy,64,80,false,yes
+overcast,60,65,false,yes
+sunny,85,85,true,no
+overcast,79,85,false,no
+overcast,80,90,false,yes
+rainy,70,75,false,no
 ```
 3) After that the file is saved with .arff file format.
 4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
